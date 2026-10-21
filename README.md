@@ -12,9 +12,14 @@ Practical, copy-ready checklists for the three phases of a trip: before, during 
 
 ## Authoritative sources
 
+Checklists were reviewed against the following (check them for current, destination-specific advice):
+
 - [CDC Travelers' Health](https://wwwnc.cdc.gov/travel)
-- [WHO International travel and health](https://www.who.int/health-topics/travel-and-health)
+- [CDC Yellow Book](https://www.cdc.gov/yellow-book/)
+- [WHO Travel and health](https://www.who.int/health-topics/travel-and-health)
 - [ECDC](https://www.ecdc.europa.eu/en)
+
+Items under "General good practice" are common-sense suggestions that are not taken directly from these sources.
 
 ## How to use
 

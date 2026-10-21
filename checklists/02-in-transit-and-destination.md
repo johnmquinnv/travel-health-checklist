@@ -4,26 +4,29 @@
 - [ ] Move and stretch regularly on long journeys; stay hydrated
 - [ ] Keep essential medicines in carry-on baggage
 - [ ] Plan for time-zone changes if medicines are time-critical
-- [ ] Carry hand sanitiser and a mask if appropriate
+- [ ] Be aware that jet lag and sleep loss can trigger seizures in people with epilepsy and provoke migraines
 
 ## Food and water
 - [ ] Use safe drinking water (bottled, boiled or treated)
 - [ ] Choose freshly cooked, hot food where hygiene is uncertain
-- [ ] Wash or sanitise hands before eating
+- [ ] Wash hands before eating, or use sanitiser (at least 60% alcohol)
 - [ ] Know how to use oral rehydration for diarrhoea
 
 ## Environment and activity
 - [ ] Heat, cold and altitude precautions followed
 - [ ] Sun protection and hydration maintained
-- [ ] Insect-bite avoidance continued
-- [ ] Road safety: seat belts, helmets, avoid night driving where unsafe
-- [ ] Water safety: check conditions, do not swim alone or after alcohol
-- [ ] Animal contact avoided; know what to do after a bite or scratch (wash well and seek urgent care)
+- [ ] Insect-bite avoidance continued (repellent, protective clothing, screens or nets)
+- [ ] Tick checks after outdoor activity in tick areas
 
 ## When to seek care promptly
-- [ ] Fever, especially in a malaria-risk area
+- [ ] Fever, especially in a malaria-risk area: seek care and testing immediately
 - [ ] Persistent vomiting or diarrhoea, blood in stool, or signs of dehydration
 - [ ] Breathing difficulty, chest pain, or severe headache
 - [ ] Any serious injury
 
 In an emergency, call the local emergency number and contact your insurer's assistance line.
+
+## General good practice (not taken directly from the sources above)
+- [ ] Road safety: seat belts, helmets, avoid night driving where roads are unsafe
+- [ ] Water safety: check conditions, do not swim alone or after alcohol
+- [ ] After an animal bite or scratch: wash the wound thoroughly and seek urgent local advice
