@@ -1,5 +1,8 @@
 # Pre-travel checklist
 
+**Version:** 1.1.0 · **Last editorial update:** 22 October 2026  
+**Maintainer:** John Quinn, MD, MPH, PhD, EMT-P. Educational draft; see the [repository review status](../README.md).
+
 Start ideally 4-8 weeks before departure (CDC: at least 4-6 weeks; WHO: 4-8 weeks). A visit is still worthwhile if you are travelling sooner.
 
 ## Risk assessment
@@ -25,7 +28,9 @@ Start ideally 4-8 weeks before departure (CDC: at least 4-6 weeks; WHO: 4-8 week
 - [ ] Destination rules on importing and carrying medicines checked
 - [ ] Medicines taken from home rather than bought abroad (counterfeit medicines are common in some countries)
 - [ ] Basic first-aid kit (dressings, analgesia, oral rehydration, antiseptic, thermometer)
-- [ ] Sunscreen (SPF 15 or higher) and hand sanitiser (at least 60% alcohol)
+- [ ] Broad-spectrum sunscreen with **SPF 30 or higher** and adequate UVA protection (at least 4-star UVA protection, or the UVA-in-a-circle marking), plus protective clothing and shade
+- [ ] Plan to apply sunscreen generously, reapply at least every 2 hours and immediately after swimming, sweating or towel drying; follow the product instructions
+- [ ] Hand sanitiser (at least 60% alcohol)
 - [ ] Condition-specific items if relevant: altitude medicine, asthma inhaler, epinephrine auto-injector for severe allergy
 
 ## Insurance and access to care
@@ -43,3 +48,7 @@ Start ideally 4-8 weeks before departure (CDC: at least 4-6 weeks; WHO: 4-8 week
 
 ## General good practice (not taken directly from the sources above)
 - [ ] Health card such as EHIC/GHIC packed, where applicable to your nationality and destination
+
+## Sun-protection source
+
+[NHS: Sunscreen and sun safety](https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/) — page reviewed 24 March 2026; checked for this editorial update on 22 October 2026. The SPF/UVA wording above follows this source.

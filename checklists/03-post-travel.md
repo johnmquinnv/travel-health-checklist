@@ -1,5 +1,8 @@
 # Post-travel checklist
 
+**Version:** 1.1.0 · **Last editorial update:** 22 October 2026  
+**Maintainer:** John Quinn, MD, MPH, PhD, EMT-P. Educational draft; see the [repository review status](../README.md).
+
 ## Medicines and prevention
 - [ ] Finish any course of malaria prophylaxis exactly as directed
 - [ ] Update your vaccination record

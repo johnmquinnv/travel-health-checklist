@@ -1,5 +1,8 @@
 # In transit and at destination
 
+**Version:** 1.1.0 · **Last editorial update:** 22 October 2026  
+**Maintainer:** John Quinn, MD, MPH, PhD, EMT-P. Educational draft; see the [repository review status](../README.md).
+
 ## In transit
 - [ ] Move and stretch regularly on long journeys; stay hydrated
 - [ ] Keep essential medicines in carry-on baggage
