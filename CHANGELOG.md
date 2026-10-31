@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.0 - 31 October 2026
+
+- Added a printable/downloadable PDF and HTML edition of all three checklists. Clarified reuse terms and added automated link checks. Clinical guidance wording retains its existing review status.
+- External clinical review and participant pilots remain unrecorded; no approval or accreditation is implied.
+
 ## 1.1.0 — 22 October 2026
 
 - Added maintainer, version, editorial-update date and explicit clinical-review status.
